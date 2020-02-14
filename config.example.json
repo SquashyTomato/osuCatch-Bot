@@ -1,0 +1,14 @@
+{
+    "general": {
+        "prefix": "!"
+    },
+    "server": {
+        "ip": "irc.ppy.sh",
+        "port": 6667
+    },
+    "user": {
+        "username": "Tomato",
+        "password": "",
+        "key": ""
+    }
+}

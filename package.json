@@ -1,0 +1,17 @@
+{
+	"name": "TomatoIRC",
+	"version": "1.0.0",
+	"description": "osu! IRC Bot",
+	"main": "app.js",
+	"author": "SquashyTomato",
+	"license": "MIT",
+	"scripts": {
+		"start": "node . --harmony"
+	},
+	"dependencies": {
+		"axios": "^0.19.2",
+		"chalk": "^3.0.0",
+		"fs": "^0.0.1-security",
+		"irc-upd": "^0.10.0"
+	}
+}
